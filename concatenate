@@ -1,0 +1,9 @@
+ s1="My"
+s2="name"
+s3="is"
+s4="Krishnapriya"
+s5="K J"
+newstring=paste(s1,s2,s3,s4,s5)
+print(newstring)
+nchar(newstring)
+
